@@ -1,5 +1,5 @@
 [package]
-name = "spl-token"
+name = "step-spl-token"
 version = "3.3.0"
 description = "Solana Program Library Token"
 authors = ["Solana Maintainers <maintainers@solana.foundation>"]
